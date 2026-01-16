@@ -4,3 +4,6 @@
 [submodule "git_modules/claude-kit-benq"]
 	path = git_modules/claude-kit-benq
 	url = https://github.com/benhaq/claudekit-engineer
+[submodule "git_modules/claude-cli-main"]
+	path = git_modules/claude-cli-main
+	url = https://github.com/mrgoonie/claudekit-cli
